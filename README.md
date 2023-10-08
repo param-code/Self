@@ -63,15 +63,11 @@ And what more to say..
 <a href="">
 <img alt="Website" height ="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </a>
-<a href="">
-<img alt="Website" height ="50" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-</a>
-<a href="">
-<img alt="Website" height ="50" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-</a>
-<a href="">
-<img alt="Website" height ="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</a>
+<p align="center">
+  <a href="">
+  <img alt="Website" height ="100" src="https://skillicons.dev/icons?i=html,css,js"/>
+  </a>
+</p>  
 <a href="">
 <img alt="Website" height ="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </a>
@@ -83,14 +79,19 @@ And what more to say..
 </a>
 <a href="">
 <img alt="Website" height ="50" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
+</a>
+  
 ## Github Stats📈📈
-<a href="">
-<img alt="Website" width ="300" src="https://github-readme-stats.vercel.app/api?username=param-code&theme=blue-green"/>
-</a>
-<a href="">
-<img alt="Website" width ="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=param-code&theme=blue-green"/>
-</a>
-<a href="">
-<img alt="Website" width ="300" src="https://streak-stats.demolab.com/?user=param-code"/>
-</a>
+<p align="center">
+  <a href="">
+  <img alt="Website" width ="500" src="https://github-readme-stats.vercel.app/api?username=param-code&theme=blue-green"/>
+  </a>
+  <a href="">
+  <img alt="Website" width ="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=param-code&theme=blue-green"/>
+  </a>
+</p>  
+<p align="center">
+  <a href="">
+  <img alt="Website" width ="500" src="https://streak-stats.demolab.com/?user=param-code"/>
+  </a>
+</p>
