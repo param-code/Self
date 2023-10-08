@@ -115,4 +115,6 @@ And what more to say..
 <a href="">
 <img alt="Website" width ="200" src="	https://github-readme-stats.vercel.app/api/top-langs/?username=param-code&theme=blue-green
 "/>
-![python](python.svg)
+<a href="">
+<img alt="Website" width ="200" src="python.svg
+"/>
