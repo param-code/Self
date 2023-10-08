@@ -113,7 +113,11 @@ And what more to say..
 "/>
 </a>
 
+<h3 align="left>Support<h3/>
+
 <p>
-<img alt="Website" width ="200" src="	https://github-readme-stats.vercel.app/api/top-langs/?username=param-code&theme=blue-green
+<a>
+<img align="left" alt="Website" width ="200" src="	https://github-readme-stats.vercel.app/api/top-langs/?username=param-code&theme=blue-green
 "/>
-<p/>
+</a>
+</p>
