@@ -115,7 +115,3 @@ And what more to say..
 <a href="">
 <img alt="Website" width ="200" src="	https://github-readme-stats.vercel.app/api/top-langs/?username=param-code&theme=blue-green
 "/>
-<a href="">
-<img alt="Website" width ="200" src="![github](https://github.com/param-code/param-code/assets/109423225/13bc41fb-3d59-4d61-a2ce-95e16439a697)
-
-"/>
