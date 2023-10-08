@@ -113,7 +113,7 @@ And what more to say..
 "/>
 </a>
 
-<h3 align="left>Support<h3/>
+<h3 align="left">Support<h3/>
 
 <p>
 <a>
