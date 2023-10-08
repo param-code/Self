@@ -112,7 +112,8 @@ And what more to say..
 <img alt="Website" width ="250" src="https://github-readme-stats.vercel.app/api?username=param-code&theme=blue-green
 "/>
 </a>
-<a href="">
+
+<p>
 <img alt="Website" width ="200" src="	https://github-readme-stats.vercel.app/api/top-langs/?username=param-code&theme=blue-green
 "/>
-</a>
+<p/>
