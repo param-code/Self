@@ -8,9 +8,9 @@
 ### 📚I'am also an Avid READER but very selective about books i read...
 
 And what more to say..
-> Learning in Public..
+> *Learning in Public..*
 
-> OPEN-SOURCE..
+> **OPEN-SOURCE..**
 
 # ⚡ CODE | EAT | SLEEP | REPEAT⚡ 
 # Do check out my PROJECTS👩🏻‍💻!!
