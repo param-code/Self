@@ -1,8 +1,7 @@
 # Hi , I am  Paramveer Singh👋
 ## 🚀About ME!!
 👨‍🎓   Tech Enthusiast, pursuing my Bachelor's in Computer Science and Engineering.
-
-    💻 I enjoy's trying new Technologies and learning more and more about them.Current i am bit enthistic about web Development and AI generative Tools.
+<img src="https://readme-typing-svg.demolab.com/?lines=💻 I enjoy's trying new Technologies; and learning more and more about them;Current i am bit enthistic about; web Development and AI generative Tools."/>
 🕹️I also loves GAMING wheather it's competitive gaming or other but mostly story-mode based games due to various reasons.
 
 ### 📚I'am also an Avid READER but very selective about books i read...
