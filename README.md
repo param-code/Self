@@ -17,3 +17,7 @@ And what more to say..
 
 ## CONNECT🔗
 
+<a href="paramcodes.netlify.app">
+<img alt="Website" height ="50" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
+"/>
+</a>
