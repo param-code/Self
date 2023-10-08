@@ -92,3 +92,6 @@ And what more to say..
 <a href="">
 <img alt="Website" width ="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=param-code&theme=blue-green"/>
 </a>
+<a href="">
+<img alt="Website" width ="300" src="https://streak-stats.demolab.com/?user=param-code"/>
+</a>
