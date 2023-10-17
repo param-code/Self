@@ -1,4 +1,5 @@
 # Hi , I am  Paramveer Singh👋
+<img src="https://komarev.com/ghpvc/?username=param-code&style=for-the-badge&color=orange" alt="something"></img>
 ## 🚀About ME!!
 👨‍🎓   Tech Enthusiast, pursuing my Bachelor's in Computer Science and Engineering.
 <img src="https://readme-typing-svg.demolab.com/?lines=💻 I enjoy's trying new Technologies; and learning more and more about them;Current i am bit enthistic about; web Development and AI generative Tools."/>
