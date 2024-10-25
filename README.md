@@ -61,7 +61,7 @@
 </a>
 <p align="center">
   <a href="">
-  <img alt="Website" height ="100" src="https://skillicons.dev/icons?i=html,css,js"/>
+  <img alt="Website" height ="100" src="https://skillicons.dev/icons?i=c,cpp,html,css,js,aws,androidstudio,appwrite,arch,arduino,cloudflare"/>
   </a>
 </p>  
 <a href="">
