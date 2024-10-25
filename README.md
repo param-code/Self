@@ -34,7 +34,7 @@
 </a>
 
 ## CODING CONNECTIONS
-<a href="">
+<a href="https://leetcode.com/u/master-aira/">
 <img alt="Website" height ="50" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
 </a>
 <a href="">
@@ -43,7 +43,7 @@
 <a href="">
 <img alt="Website" height ="50" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/>
 </a>
-<a href="">
+<a href="https://codeforces.com/profile/param_codes">
 <img alt="Website" height ="50" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
 </a>
 <a href="">
